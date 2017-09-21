@@ -1,0 +1,182 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Java Cryptography</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/league.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+                  <h1>Java Cryptography</h1>
+                  <p>very basic introduction</p>
+                </section>
+                <section>
+                  <h2>Disclaimer</h2>
+                  <ul>
+                    <li>I know shit about cryptography and security</li>
+                    <li>This presentation introduces only basic definitions and simple rules</li>
+                  </ul>
+                </section>
+				<section>
+                  <h2>Problem</h2>
+                  <p>How to encrypt file in Java?</p>
+                </section>
+                <section>
+                  <h2>Solution</h2>
+                  <img data-src="img/howTo.png">
+                </section>
+                <section>
+                  <h1>DONE!</h1>
+                  <p class="fragment">really?</p>
+                </section>
+                <section>
+                  <pre><code class="hljs">KeyGenerator keygenerator = KeyGenerator.getInstance("DES");
+SecretKey myDesKey = keygenerator.generateKey();
+
+Cipher desCipher = Cipher.getInstance("DES");
+
+byte[] text = "No body can see me.".getBytes("UTF8");
+
+desCipher.init(Cipher.ENCRYPT_MODE, myDesKey);
+byte[] textEncrypted = desCipher.doFinal(text);
+
+String s = new String(textEncrypted);
+System.out.println(s);
+
+desCipher.init(Cipher.DECRYPT_MODE, myDesKey);
+byte[] textDecrypted = desCipher.doFinal(textEncrypted);</code></pre>
+                </section>
+                <section>
+                  <h3>encrypt</h3>
+                  <pre><code class="hljs">Cipher cipher = Cipher.getInstance("DES");
+
+cipher.init(Cipher.ENCRYPT_MODE, myKey);
+byte[] textEncrypted = cipher.doFinal(text); </pre></code>
+                  <h3>decrypt</h3>
+<pre><code class="hljs">cipher.init(Cipher.DECRYPT_MODE, myKey);
+byte[] textDecrypted = cipher.doFinal(textEncrypted);</code></pre>
+                </section>
+
+                <section>
+                  <h2>WTF is "DES"?</h2>
+                  <pre><code class="hljs">Cipher cipher = Cipher.getInstance("DES");</code></pre>
+                  <img data-src="img/des.png" class="fragment">
+                </section>
+                <section>
+                  <h2>What's better than DES?</h2>
+
+                    <div class="left">
+                      <ul>
+                        <li>AES <span class="fragment" style="color: green">OK</span></li>
+                        <li>AESWrap <span class="fragment" style="color: green">OK</span></li>
+                        <li>ARCFOUR</li>
+                        <li>Blowfish</li>
+                        <li>DES</li>
+                        <li>DESede <small>(a.k.a. Triple-DES, 3DES)</small></li>
+                      </ul>
+                    </div>
+                    <div class="right">
+                      <ul>
+                        <li>DESedeWrap</li>
+                        <li>ECIES</li>
+                        <li>PBEWith<digest>And<encryption></li>
+                        <li>RC2</li>
+                        <li>RC4</li>
+                        <li>RC5</li>
+                        <li>RSA <span class="fragment" style="color: green">OK</span></li>
+                      </ul>
+                  <p><small>from <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/security/StandardNames.html#Cipher">JCA Standard Algorithm Names</a> docs</small></p>
+                    </div>
+                </section>
+                <section>
+                  <h2>AES example</h2>
+                  <pre><code class="hljs">IvParameterSpec iv = new IvParameterSpec(ivBytes);
+SecretKeySpec skeySpec = new SecretKeySpec(keyBytes, "AES");
+
+Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5Padding");
+cipher.init(Cipher.ENCRYPT_MODE, skeySpec, iv);</code></pre>
+                </section>
+                <section>
+                  <h2>Transformation string</h2>
+                  <h3>AES/CBC/PKCS5PADDING</h3>
+                  <ul>
+                    <li>algorithm</li>
+                    <li>mode of operation (defaults to ECB)</li>
+                    <li>padding (defaults to NoPadding)</li>
+                  </ul>
+                </section>
+
+                <section>
+                  <h2>Secret key</h2>
+                  <ul>
+                    <li>use 256bit key</li>
+                    <li class="fragment">key length is restricted to 128bits by default (WTF?!)</li>
+                    <li class="fragment">download <a href="http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html">Java Cryptography Extension (JCE) Unlimited Strength Policy</a> and install into JRE</li>
+                  </ul>
+                </section>
+                <section>
+                  <h2>Initialisation vector (a.k.a. IV)</h2>
+                  <ul>
+                    <li>secret key + iv = nonce (don't use it twice)</li>
+                    <li>SecureRandom for cryptographically secure pseudo-random numbers</li>
+                    <li>don't setSeed() on SecureRandom</li>
+                  </ul>
+                </section>
+                <section>
+                  <h2>AES example (once again)</h2>
+                  <pre><code class="hljs">IvParameterSpec iv = new IvParameterSpec(ivBytes);
+SecretKeySpec skeySpec = new SecretKeySpec(keyBytes, "AES");
+
+Cipher cipher = Cipher.getInstance("AES/CBC/PKCS5PADDING");
+cipher.init(Cipher.ENCRYPT_MODE, skeySpec, iv);</code></pre>
+                </section>
+                <section>
+                  <h2>Summary</h2>
+                  <ul>
+                    <li>trust no one (even official documentation)</li>
+                    <li>look for detailed explanation</li>
+                    <li>use Cipher class for encryption</li>
+                    <li>use secure, explicit configuration instead of defaults</li>
+                    <li>two algorithms: AES for symmetric encryption, RSA for asymetric</li>
+                    <li>install JCE Unlimited Strength Policy for keys longer than 128bits</li>
+                  </ul>
+                </section>
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info about config & dependencies:
+			// - https://github.com/hakimel/reveal.js#configuration
+			// - https://github.com/hakimel/reveal.js#dependencies
+			Reveal.initialize({
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
