@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logs.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="703.53058"
+     inkscape:cy="561.27355"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <image
+       sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\logs3.png"
+       xlink:href="logs3.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       width="203.22064"
+       height="214.13609"
+       preserveAspectRatio="none"
+       id="image823"
+       x="18.291418"
+       y="66.560509" />
+    <image
+       sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\logs4.png"
+       xlink:href="logs4.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       width="368.82916"
+       height="223.30833"
+       preserveAspectRatio="none"
+       id="image834"
+       x="126.47083"
+       y="53.104561" />
+    <image
+       sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\logs1.png"
+       xlink:href="logs1.png"
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       width="179.12291"
+       height="90.487503"
+       preserveAspectRatio="none"
+       id="image845"
+       x="86.443153"
+       y="22.866461" />
+  </g>
+</svg>

@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg5409"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="technologies.svg">
+  <defs
+     id="defs5403" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="793.15403"
+     inkscape:cy="590.13531"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5406">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)">
+    <g
+       style="fill:#4d4d4d"
+       transform="matrix(0.70779762,0,0,0.70779762,20.915694,3.6015909)"
+       id="g6152"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:transform-center-y="1.0721311e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,59.634264,96.772736)"
+         inkscape:transform-center-x="2.9882447e-006"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.11631171"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0850114"
+         sodipodi:arg1="1.5818651"
+         sodipodi:r2="63.901897"
+         sodipodi:r1="72.698868"
+         sodipodi:cy="115.95577"
+         sodipodi:cx="201.52122"
+         sodipodi:sides="6"
+         id="path6148"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\spring.png"
+         xlink:href="spring.png"
+         width="72.672218"
+         height="72.672218"
+         preserveAspectRatio="none"
+         id="image6150"
+         x="224.57101"
+         y="173.38121"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       style="fill:#4d4d4d"
+       transform="matrix(0.70779762,0,0,0.70779762,19.54565,2.1048643)"
+       id="g6158"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6154"
+         sodipodi:sides="6"
+         sodipodi:cx="201.52122"
+         sodipodi:cy="115.95577"
+         sodipodi:r1="72.698868"
+         sodipodi:r2="63.901897"
+         sodipodi:arg1="1.5818651"
+         sodipodi:arg2="2.0850114"
+         inkscape:flatsided="false"
+         inkscape:rounded="0.11631171"
+         inkscape:randomized="0"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:transform-center-x="2.9882447e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,-5.3930123,-14.212105)"
+         inkscape:transform-center-y="1.0721311e-006" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\java.png"
+         xlink:href="java.png"
+         width="96.979851"
+         height="96.979851"
+         preserveAspectRatio="none"
+         id="image6156"
+         x="147.38992"
+         y="50.242554"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       style="fill:#4d4d4d"
+       transform="matrix(0.70779762,0,0,0.70779762,15.081489,3.6182461)"
+       id="g6170"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:transform-center-y="1.0721311e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,-69.809584,96.749205)"
+         inkscape:transform-center-x="2.9882447e-006"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.11631171"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0850114"
+         sodipodi:arg1="1.5818651"
+         sodipodi:r2="63.901897"
+         sodipodi:r1="72.698868"
+         sodipodi:cy="115.95577"
+         sodipodi:cx="201.52122"
+         sodipodi:sides="6"
+         id="path6166"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\kotlin.logo.png"
+         xlink:href="kotlin.logo.png"
+         width="74.222954"
+         height="74.222954"
+         preserveAspectRatio="none"
+         id="image6168"
+         x="94.351799"
+         y="172.58231"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       style="fill:#4d4d4d"
+       transform="matrix(0.70779762,0,0,0.70779762,70.973752,84.317894)"
+       id="g6176"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6172"
+         sodipodi:sides="6"
+         sodipodi:cx="201.52122"
+         sodipodi:cy="115.95577"
+         sodipodi:r1="72.698868"
+         sodipodi:r2="63.901897"
+         sodipodi:arg1="1.5818651"
+         sodipodi:arg2="2.0850114"
+         inkscape:flatsided="false"
+         inkscape:rounded="0.11631171"
+         inkscape:randomized="0"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:transform-center-x="2.9882447e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,59.634264,96.772736)"
+         inkscape:transform-center-y="1.0721311e-006" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\node_small.png"
+         xlink:href="node_small.png"
+         y="184.28748"
+         x="201.44829"
+         id="image6174"
+         preserveAspectRatio="none"
+         height="46.264286"
+         width="120.97846"
+         style="opacity:1;fill:#4d4d4d" />
+    </g>
+    <g
+       style="fill:#4d4d4d"
+       id="g6182"
+       transform="matrix(0.70779762,0,0,0.70779762,19.54565,3.6182461)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:transform-center-y="1.0721311e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,-5.3930123,210.78789)"
+         inkscape:transform-center-x="2.9882447e-006"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.11631171"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0850114"
+         sodipodi:arg1="1.5818651"
+         sodipodi:r2="63.901897"
+         sodipodi:r1="72.698868"
+         sodipodi:cy="115.95577"
+         sodipodi:cx="201.52122"
+         sodipodi:sides="6"
+         id="path6178"
+         style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\aws_logo.png"
+         xlink:href="aws_logo.png"
+         width="113.73878"
+         height="72.85482"
+         preserveAspectRatio="none"
+         id="image6180"
+         x="139.01047"
+         y="287.30505"
+         style="fill:#4d4d4d" />
+    </g>
+    <g
+       id="g6103"
+       transform="matrix(0.70779762,0,0,0.70779762,23.94135,2.8448999)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#c8c4b7;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5997"
+         sodipodi:sides="6"
+         sodipodi:cx="201.52122"
+         sodipodi:cy="115.95577"
+         sodipodi:r1="72.698868"
+         sodipodi:r2="63.901897"
+         sodipodi:arg1="1.5818651"
+         sodipodi:arg2="2.0850114"
+         inkscape:flatsided="false"
+         inkscape:rounded="0.11631171"
+         inkscape:randomized="0"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:transform-center-x="2.9882447e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,59.634264,96.772736)"
+         inkscape:transform-center-y="1.0721311e-006" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\spring.png"
+         xlink:href="spring.png"
+         y="173.38121"
+         x="224.57101"
+         id="image6098"
+         preserveAspectRatio="none"
+         height="72.672218"
+         width="72.672218" />
+    </g>
+    <g
+       id="g6080"
+       transform="matrix(0.70779762,0,0,0.70779762,21.437378,1.3481733)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:transform-center-y="1.0721311e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,-5.3930123,-14.212105)"
+         inkscape:transform-center-x="2.9882447e-006"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.11631171"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0850114"
+         sodipodi:arg1="1.5818651"
+         sodipodi:r2="63.901897"
+         sodipodi:r1="72.698868"
+         sodipodi:cy="115.95577"
+         sodipodi:cx="201.52122"
+         sodipodi:sides="6"
+         id="path5969"
+         style="opacity:1;fill:#ececec;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\java.png"
+         xlink:href="java.png"
+         y="50.242554"
+         x="147.38992"
+         id="image5994"
+         preserveAspectRatio="none"
+         height="96.979851"
+         width="96.979851" />
+    </g>
+    <g
+       id="g6302"
+       transform="translate(48.488096,79.673187)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g6164"
+         transform="matrix(0.70779762,0,0,0.70779762,25.952772,4.7532826)"
+         style="fill:#4d4d4d">
+        <path
+           inkscape:transform-center-y="1.0721311e-006"
+           transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,123.2414,-17.953878)"
+           inkscape:transform-center-x="2.9882447e-006"
+           d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0.11631171"
+           inkscape:flatsided="false"
+           sodipodi:arg2="2.0850114"
+           sodipodi:arg1="1.5818651"
+           sodipodi:r2="63.901897"
+           sodipodi:r1="72.698868"
+           sodipodi:cy="115.95577"
+           sodipodi:cx="201.52122"
+           sodipodi:sides="6"
+           id="path6160"
+           style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           sodipodi:type="star" />
+        <image
+           sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\Clojure_logo.png"
+           xlink:href="Clojure_logo.png"
+           style="fill:#4d4d4d"
+           y="53.160057"
+           x="279.34976"
+           id="image6162"
+           preserveAspectRatio="none"
+           height="90.329002"
+           width="90.329002" />
+      </g>
+      <g
+         transform="matrix(0.70779762,0,0,0.70779762,27.8445,3.9965916)"
+         id="g6076">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#90b4fe;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path5973"
+           sodipodi:sides="6"
+           sodipodi:cx="201.52122"
+           sodipodi:cy="115.95577"
+           sodipodi:r1="72.698868"
+           sodipodi:r2="63.901897"
+           sodipodi:arg1="1.5818651"
+           sodipodi:arg2="2.0850114"
+           inkscape:flatsided="false"
+           inkscape:rounded="0.11631171"
+           inkscape:randomized="0"
+           d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+           inkscape:transform-center-x="2.9882447e-006"
+           transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,123.2414,-17.953878)"
+           inkscape:transform-center-y="1.0721311e-006" />
+        <image
+           sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\Clojure_logo.png"
+           xlink:href="Clojure_logo.png"
+           width="90.329002"
+           height="90.329002"
+           preserveAspectRatio="none"
+           id="image6052"
+           x="279.34976"
+           y="53.160057" />
+      </g>
+    </g>
+    <g
+       id="g6068"
+       transform="matrix(0.70779762,0,0,0.70779762,16.973217,2.861555)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path5971"
+         sodipodi:sides="6"
+         sodipodi:cx="201.52122"
+         sodipodi:cy="115.95577"
+         sodipodi:r1="72.698868"
+         sodipodi:r2="63.901897"
+         sodipodi:arg1="1.5818651"
+         sodipodi:arg2="2.0850114"
+         inkscape:flatsided="false"
+         inkscape:rounded="0.11631171"
+         inkscape:randomized="0"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:transform-center-x="2.9882447e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,-69.809584,96.749205)"
+         inkscape:transform-center-y="1.0721311e-006" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\kotlin.logo.png"
+         xlink:href="kotlin.logo.png"
+         y="172.58231"
+         x="94.351799"
+         id="image6063"
+         preserveAspectRatio="none"
+         height="74.222954"
+         width="74.222954" />
+    </g>
+    <g
+       id="g6086"
+       transform="matrix(0.70779762,0,0,0.70779762,72.865479,83.561202)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         inkscape:transform-center-y="1.0721311e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,59.634264,96.772736)"
+         inkscape:transform-center-x="2.9882447e-006"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0.11631171"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.0850114"
+         sodipodi:arg1="1.5818651"
+         sodipodi:r2="63.901897"
+         sodipodi:r1="72.698868"
+         sodipodi:cy="115.95577"
+         sodipodi:cx="201.52122"
+         sodipodi:sides="6"
+         id="path6082"
+         style="opacity:1;fill:#90c53f;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\node_small.png"
+         xlink:href="node_small.png"
+         style="opacity:1"
+         width="120.97846"
+         height="46.264286"
+         preserveAspectRatio="none"
+         id="image6084"
+         x="201.44829"
+         y="184.28748" />
+    </g>
+    <g
+       id="g6126"
+       transform="matrix(0.70779762,0,0,0.70779762,21.437378,2.861555)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#e9ddaf;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path6116"
+         sodipodi:sides="6"
+         sodipodi:cx="201.52122"
+         sodipodi:cy="115.95577"
+         sodipodi:r1="72.698868"
+         sodipodi:r2="63.901897"
+         sodipodi:arg1="1.5818651"
+         sodipodi:arg2="2.0850114"
+         inkscape:flatsided="false"
+         inkscape:rounded="0.11631171"
+         inkscape:randomized="0"
+         d="m 200.71655,188.65019 c -4.07711,0.0383 -27.11734,-14.97872 -30.62557,-17.05637 -3.76973,-2.23252 -29.70114,-16.21423 -31.9273,-19.98771 -2.07174,-3.51172 -0.58672,-30.97367 -0.54154,-35.05071 0.0486,-4.38093 -0.80863,-33.829047 1.34621,-37.6437 2.00537,-3.550045 26.53062,-15.994951 30.08404,-17.994344 3.81827,-2.14842 28.8925,-17.614822 33.27351,-17.655998 4.07711,-0.03832 27.11734,14.978719 30.62557,17.056371 3.76973,2.232512 29.70114,16.214225 31.9273,19.987702 2.07174,3.511725 0.58672,30.973669 0.54154,35.050709 -0.0485,4.38094 0.80863,33.82905 -1.34621,37.6437 -2.00537,3.55005 -26.53062,15.99496 -30.08404,17.99435 -3.81827,2.14842 -28.8925,17.61482 -33.27351,17.656 z"
+         inkscape:transform-center-x="2.9882447e-006"
+         transform="matrix(0.99261486,-0.01069287,0.01069287,0.99261486,-5.3930123,210.78789)"
+         inkscape:transform-center-y="1.0721311e-006" />
+      <image
+         sodipodi:absref="C:\Users\Andrzej\github\presentations\make-a-game-pl\img\aws_logo.png"
+         xlink:href="aws_logo.png"
+         y="287.30505"
+         x="139.01047"
+         id="image6113"
+         preserveAspectRatio="none"
+         height="72.85482"
+         width="113.73878" />
+    </g>
+  </g>
+</svg>
